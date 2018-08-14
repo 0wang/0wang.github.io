@@ -1,9 +1,9 @@
 theme: jekyll-sleek
 title: Storms & Islands
-author: 0wang# You :P
+author: 0wang # You :P
 description: > # Meta description of Homepage
   I’ve been experienced storms and landed on islands.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://0wang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
@@ -25,7 +25,7 @@ navigation: # Navigation links
 
 tagline: >
     I’ve been experienced storms and landed on islands.
-hero_img: posts/0wang_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/0wang_logo.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: wangcy854@gmail.com # email for form submission
 
