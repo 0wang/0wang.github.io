@@ -3,7 +3,7 @@ title: Storms & Islands
 author: 0wang # You :P
 description: > # Meta description of Homepage
   I’ve been experienced storms and landed on islands.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://0wang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
