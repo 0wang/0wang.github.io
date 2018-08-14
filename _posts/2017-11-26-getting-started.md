@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stories of stroms
-featured-img: sleek_placehold
+featured-img: sleek_placehold.jpg
 mathjax: true
 ---
 
