@@ -24,8 +24,8 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  - I’ve been experienced storms and landed on islands.
-  - 我经历过暴风和岛屿
+  I’ve been experienced storms and landed on islands //
+  我经历过暴风和岛屿
 hero_img: posts/0wang_logo.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: wangcy854@gmail.com # email for form submission
