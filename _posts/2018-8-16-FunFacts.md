@@ -2,6 +2,7 @@
 layout: post
 title:  “Living Color”
 featured-img: shane-rounce-205187
+categories: life
 mathjax: true
 ---
 This post will be continue updating, recording the fun facts I disvovered from daily life.

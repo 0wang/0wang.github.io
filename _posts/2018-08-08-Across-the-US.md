@@ -2,6 +2,7 @@
 layout: post
 title: Across the U.S.
 featured-img: sleek
+categories: Travel
 mathjax: true
 ---
 
