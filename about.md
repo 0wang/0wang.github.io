@@ -12,6 +12,6 @@ permalink: /about/
 
 **B.Sc.** *Food Science and safety* <br />
 **M.Sc.** *Chemical Engineering* <br />
-**Ph.D.** *Enviromental Engineering* (quited) <br />
+**Ph.D.** *Environmental Engineering* (quited) <br />
 
-Now I'm applying a *Ph.D* position in a lab realted with nano materials and their application in energy or biology.[Curriculum Vitae](/assets/img/docs/jia-wang-cv.pdf)
+Now I'm applying a *Ph.D* position in a lab working on nano materials and their systhesis,characterization, modification and their application in energy or biology.[Curriculum Vitae](/assets/img/docs/jia-wang-cv.pdf)
