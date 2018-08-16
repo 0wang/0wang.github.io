@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: compress
 title:  “Living Colour”
 featured-img: shane-rounce-205187
 mathjax: true
