@@ -28,5 +28,5 @@ Since we only have two girls, the safety became the primary concern when we sche
 ##### <font color="#2F4F4F">Chesteron - Erie </font> <br />
    <font color="#696969">Driving time: 6h </font> <br />
 
-7. <font color="#2F4F4F">Erie - Niagara Falls </font>
+#####<font color="#2F4F4F">Erie - Niagara Falls </font>
       <font color="#696969">Driving time: 3h </font> <br />
