@@ -42,9 +42,5 @@ Since we only have two girls, the safety became the primary concern when we sche
 
 ### <font color="#800000">Pictures and their stories </font>
 
-
-![avacyn1](/assets/img/posts/avacyn1.jpg) <br />
-![lasvegas](/assets/img/posts/vegasyejing.jpg) <br />
-![casino1](/assets/img/posts/casino1.jpg)
-
+![milake](/assets/img/posts/milake1.jpg)
 to be continued
