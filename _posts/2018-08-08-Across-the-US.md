@@ -43,4 +43,5 @@ Since we only have two girls, the safety became the primary concern when we sche
 
 
 ![casino1](/assets/img/posts/casino1.jpg)
+
 to be continued
