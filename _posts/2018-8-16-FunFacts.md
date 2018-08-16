@@ -1,6 +1,6 @@
 ---
-layout: page
-title:  “Living Colour”
+layout: post
+title:  “Living Color”
 featured-img: shane-rounce-205187
 mathjax: true
 ---
