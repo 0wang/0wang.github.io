@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 ### Me on the Screen
@@ -10,8 +10,8 @@ permalink: /about/
 
 ### Me in reality
 
-**B.Sc.** *Food Science and safety* <br />
 **M.Sc.** *Chemical Engineering* <br />
-**Ph.D.** *Environmental Engineering* (quited) <br />
+**B.Sc.** *Food Science and safety* <br />
 
-Now I'm applying a *Ph.D* position in a lab working on nano materials and their systhesis,characterization, modification and their application in energy or biology.[Curriculum Vitae](/assets/img/docs/jia-wang-cv.pdf)
+Now I'm applying a *Ph.D* position in a lab doing research about nano materials and their systhesis,characterization, modification and their application in energy or biology. Besides, I'm very interested in computational material science, and statistics with it's applicaiton in biology or other fields.
+[Curriculum Vitae](/assets/img/docs/jia-wang-cv.pdf).
