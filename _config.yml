@@ -60,11 +60,12 @@ exclude:
 
 include: ['_pages']
 permalink: /:title/
-
+plublished : true
 compress_html:
   clippings: all
-
+future: true
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 theme: jekyll-sleek
+timezone: 'United States'
