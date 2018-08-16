@@ -14,4 +14,4 @@ permalink: /about/
 **M.Sc.** *Chemical Engineering* <br />
 **Ph.D.** *Enviromental Engineering* (quited) <br />
 
-Now I'm applying a *Ph.D* position in a lab realted with nano materials and their application in energy or biology.
+Now I'm applying a *Ph.D* position in a lab realted with nano materials and their application in energy or biology.[Curriculum Vitae](/assets/img/docs/jia-wang-cv.pdf)
