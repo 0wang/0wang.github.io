@@ -3,9 +3,6 @@ layout: post
 title: Across the U.S.
 featured-img: sleek
 mathjax: true
-tagline: >
-         Author: AvacynW  <br />
-        - Please quote your source
 ---
 
 ### <font color="#800000">Rountine </font>
@@ -42,5 +39,5 @@ Since we only have two girls, the safety became the primary concern when we sche
 ##### <font color="#2F4F4F">Erie - Niagara Falls </font>
       <font color="#696969">Driving time: 3h </font> <br />
       <font color="#6A5ACD">Stayed At: Motel </font> <br />
-      
+
 ### <font color="#800000">Pics and their stories </font>
