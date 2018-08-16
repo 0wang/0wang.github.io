@@ -4,7 +4,7 @@ title: Across the U.S.
 featured-img: sleek
 mathjax: true
 ---
-### Rountine
+### <font color="#800000">Rountine </font>
 Choosing rountine is absoutely most important thing for a road trip.
 #### <font color="#008B8B">Depature: Los Angeles </font>
 #### <font color="#008B8B">Destination: New York State </font>
