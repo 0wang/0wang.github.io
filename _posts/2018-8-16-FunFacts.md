@@ -1,5 +1,6 @@
 ---
-layout: compress
+layout: default
+baseurl: "/research"
 title:  “Living Colour”
 featured-img: shane-rounce-205187
 mathjax: true
