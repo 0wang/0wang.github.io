@@ -1,14 +1,11 @@
 ---
 layout: post
-title: Across the U.S.
+title: Getting Started with Sleek
 featured-img: sleek
 mathjax: true
 ---
 
-### Rountine
-Choosing rountine is absoutely most important thing for a road trip.
-
-![Arches National Park](/assets/img/posts/sleek.jpg)
+# Getting started
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `blog` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
@@ -88,4 +85,3 @@ The kerel summation radius $r$ is equal to the N-simplex height $h$.
 
 $$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
 Happy hacking!
----
