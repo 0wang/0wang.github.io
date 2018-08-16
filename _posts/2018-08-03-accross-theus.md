@@ -5,8 +5,8 @@ featured-img: sleek
 mathjax: true
 ---
 
-# Rountine
-Choosing rountine is absoutely most important thing for a road trip.daasdhasd
+### Rountine
+Choosing rountine is absoutely most important thing for a road trip.
 
 ![Arches National Park](/assets/img/posts/sleek.jpg)
 
