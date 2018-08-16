@@ -25,7 +25,7 @@ navigation: # Navigation links
 
 tagline: >
   I’ve been experienced storms and landed on islands <br />
-  我经历过暴风和岛屿
+  我经历过风暴和岛屿
 hero_img: posts/0wang_logo.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: wangcy854@gmail.com # email for form submission
@@ -68,3 +68,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 theme: jekyll-sleek
+futrue: true
+parse_block_html: true
