@@ -5,8 +5,8 @@ featured-img: sleek
 mathjax: true
 ---
 
-### <font color="#800000">Rountine </font>
-Choosing rountine is absoutely most important thing for a road trip.
+### <font color="#800000">Route </font>
+Choosing route is absoutely most important thing for a road trip.
 #### <font color="#008B8B">Depature: Los Angeles </font>
 #### <font color="#008B8B">Destination: New York </font>
 Since we only have two girls, the safety became the primary concern when we schedule the rountine. And we only have 12 days, so the distance was another thing attached importance to.
