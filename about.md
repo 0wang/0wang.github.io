@@ -9,7 +9,8 @@ permalink: /about/
 ![avacyn1](/assets/img/posts/avacyn1.jpg)
 
 ### Me in reality
-![me](/assests/img/posts/ME2.jpg)
+
+![me](/assets/img/posts/ME2.jpg)
 
 **M.Sc.** *Chemical Engineering* <br />
 **B.Sc.** *Food Science and safety* <br />
