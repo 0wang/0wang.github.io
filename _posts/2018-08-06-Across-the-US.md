@@ -57,4 +57,4 @@ Butter beer is highly recomended! No alcohol, so young fans friendly. The light 
 
 
 ![milake](/assets/img/posts/milake1.jpg)
-to be continued
+to be continued.
