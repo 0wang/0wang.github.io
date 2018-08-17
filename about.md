@@ -10,7 +10,7 @@ permalink: /about/
 
 ### Me in reality
 
-![me](/assets/img/posts/ME2.jpg) <br />
+![me](/assets/img/posts/ME1.jpg) <br />
 
 **M.Sc.** *Chemical Engineering* <br />
 **B.Sc.** *Food Science and safety* <br />
