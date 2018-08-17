@@ -11,7 +11,7 @@ This post will be continue updating, recording the fun facts I disvovered from d
 - [The Phantom of the Opera](https://www.youtube.com/watch?v=PDqSWYfOm7Y) is one of my favorite opera. Not only because it's a singing voice from my childhood, but also it's impressed me very much after I watched it in The Broadway.
 
 ### Literatures
-- [Iodide management in formamidinium-lead-halide–based perovskite layers for efficient solar cells](http://science.sciencemag.org/content/356/6345/1376)
+- Iodide management in formamidinium-lead-halide–based perovskite layers for efficient solar cells. [view](http://science.sciencemag.org/content/356/6345/1376)
 
 ### Songs
 
