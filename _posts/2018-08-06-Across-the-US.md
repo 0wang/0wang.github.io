@@ -47,10 +47,12 @@ Since we only have two girls, the safety became the primary concern when we sche
 - Though I went to The Universal Studios for five times, but I never been there after the Harry Potter Castle opened to public. As a big fan of Harry Potter, who wathced the series of movies more than 10 times  and read the books more than 5 times, THAT'S THE PLACE I MUST GO!
 It was amazing, just like the Diagonal Alley in the movies. Buuuuuut,it was really crowded. We waited in line for
 the 10 mins magic show for 2 hours!
-Butter beer is highly recomended! No alcohol, so young fans friendly. The light show after 9 pm. was the best on that day ! <br />
+Butter beer is highly recomended! No alcohol, so young fans friendly. The light show after 9 pm. was the best on that day !
+
 ![hp](/assets/img/posts/harrypotter.jpg)
 
-- Las Vegas was the second stop in our trip. Though I lived at Los Angeles where very close to Las Vegas for 3 years, it was the first time I been there. The Wynn is a very worthy hotel to stayed at. We also watched the Mystery show by Cirque du Soleil, great show moving aesthetic. Stage design,clothing and the rhythm of the show was fantastic，Cirque du Soleil deserves the famous. <br />
+- Las Vegas was the second stop in our trip. Though I lived at Los Angeles where very close to Las Vegas for 3 years, it was the first time I been there. The Wynn is a very worthy hotel to stayed at. We also watched the Mystery show by Cirque du Soleil, great show moving aesthetic. Stage design,clothing and the rhythm of the show was fantastic，Cirque du Soleil deserves the famous.
+
 ![zaij](/assets/img/posts/zaji1.jpg)
 
 - The Arches Nation Park.
