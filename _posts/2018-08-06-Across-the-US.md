@@ -49,11 +49,11 @@ It was amazing, just like the Diagonal Alley in the movies. Buuuuuut,it was real
 the 10 mins magic show for 2 hours!
 Butter beer is highly recomended! No alcohol, so young fans friendly. The light show after 9 pm. was the best on that day !
 
-![hp](/assets/img/posts/harrypotter.jpg)
+![hp](/assets/img/posts/harrypotter.JPG)
 
 - Las Vegas was the second stop in our trip. Though I lived at Los Angeles where very close to Las Vegas for 3 years, it was the first time I been there. The Wynn is a very worthy hotel to stayed at. We also watched the Mystery show by Cirque du Soleil, great show moving aesthetic. Stage design,clothing and the rhythm of the show was fantastic，Cirque du Soleil deserves the famous.
 
-![zaij](/assets/img/posts/zaji1.jpg)
+![zaij](/assets/img/posts/zaji1.JPG)
 
 - The Arches Nation Park.
 
