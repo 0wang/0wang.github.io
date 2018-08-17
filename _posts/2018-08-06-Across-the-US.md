@@ -42,5 +42,9 @@ Since we only have two girls, the safety became the primary concern when we sche
 
 ### <font color="#800000">Pictures and their stories </font>
 
+##### <font color="#2F4F4F">The Universal Studios Hollywood</font>
+
+
+
 ![milake](/assets/img/posts/milake1.jpg)
 to be continued
