@@ -55,7 +55,19 @@ Butter beer is highly recomended! No alcohol, so young fans friendly. The light 
 
 ![zaij](/assets/img/posts/zaji1.JPG)
 
-- The Arches Nation Park.
+- The night view of Las Vegas was amazing, our room at Wynn was just oriented to this view. I took this picture on 56th floor. In order not to take a reflection of the room, I hidden between the window and curtain, then I pressed shutter.
+
+![yejing](/assets/img/posts/vegasyejing.jpg)
+
+- We also had the famous buffent at Wynn, it was good but the dessert was......a disaster.
+
+![zizhu](/assets/img/posts/zizhu.JPG)
+
+- The Arches National Park was the second stop in our trip. We went to the trail to the world famous delicate arch. According to the information, the trail is only 2 miles, we tought it was easy. However, it was a really hard trail, we took rest for 8 times and drank 8 bottles of water.
+But, it worth!
+
+![gongmen](/assets/img/posts/sleek.jpg)
+
 
 
 ![milake](/assets/img/posts/milake1.jpg)
