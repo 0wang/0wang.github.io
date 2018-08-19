@@ -59,7 +59,7 @@ Butter beer is highly recomended! No alcohol, so young fans friendly. The light 
 
 ![yejing](/assets/img/posts/vegasyejing.jpg)
 
-- We also had the famous buffent at Wynn, it was good but the dessert was......a disaster.
+- We also had the famous buffet at Wynn, it was good but the dessert was......a disaster.
 
 ![zizhu](/assets/img/posts/zizhu.JPG)
 
