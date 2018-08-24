@@ -15,7 +15,7 @@ permalink: /about/
 **M.Sc.** *Chemical Engineering* <br />
 **B.Sc.** *Food Science and safety* <br />
 
-My ambition towards scientific research started from childhood when I always listen to those adults talking about the scientific development. At that time mother set a good example to me.
+My ambition towards scientific research started from childhood when I always listen to those adults talking about the scientific development. At that time, my mother set a good example to me.
 She gave up many very good development opportunities for my father and I, so she only has a very small lab with some backward instruments. She taught me spirit of self-sacrifice.
 Though she doesn’t have any advanced instrument, she trying hard to do better research. She taught me dedication, responsibility and persistence.
 With limited resources, she came up with many brilliant ideas that to use cheap materials and innovative methods to replace the function of those advanced instruments. She taught me how to face to the adversity, being unyielding and truly thrive in the career.
